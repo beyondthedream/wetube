@@ -1,9 +1,9 @@
-<!-- @format -->
+# Wetube Reloaded
 
 / -> Home
 /join -> Join
-/login -> login
-/search -> search
+/login -> Login
+/search -> Search
 
 /users/:id -> See User
 /users/logout -> Log Out
